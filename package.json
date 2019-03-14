@@ -1,0 +1,14 @@
+{
+  "name": "@fearless/apollo-server-fearless",
+  "description": "Fearless Apollo",
+  "version": "0.1.0-beta.0",
+  "author": "Rodrigo Oler <https://github.com/rodrigooler>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "private": false,
+  "repository": "git@github.com:fearlessjs/apollo-server-fearless.git",
+  "dependencies": {
+    "@fearless/fearless": "^0.1.0-beta.0",
+    "apollo-server-core": "^2.4.8"
+  }
+}
