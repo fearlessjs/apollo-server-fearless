@@ -9,6 +9,7 @@
   "repository": "git@github.com:fearlessjs/apollo-server-fearless.git",
   "dependencies": {
     "@fearless/fearless": "^0.1.0-beta.0",
-    "apollo-server-core": "^2.4.8"
+    "apollo-server-core": "^2.4.8",
+    "graphql-tools": "^4.0.4"
   }
 }
