@@ -10,6 +10,7 @@
   "dependencies": {
     "@fearless/fearless": "^0.1.0-beta.0",
     "apollo-server-core": "^2.4.8",
-    "graphql-tools": "^4.0.4"
+    "graphql-tools": "^4.0.4",
+    "url": "^0.11.0"
   }
 }
